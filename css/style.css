@@ -787,6 +787,32 @@ textarea.form-control {
 }
 
 
+.coursetilte{
+  background-color: #41228e;
+  padding-top: 0px;
+  border-radius: 6px !important;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  
+  list-style: none;
+  text-decoration: none;
+}
+
+.courseplus{
+  margin-top: 21px;
+    color: white;
+    margin-top: 34px;
+}
+
+.courseheading{
+  padding: 0px;
+    color: white;
+    margin-left: -34px;
+    margin-top: 21px;
+    font-size: 25px;
+}
+
+
 @media (max-width: 991px) {
   .card-lg {
     flex-direction: column;
@@ -801,6 +827,21 @@ textarea.form-control {
 
   html {
     overflow-x: hidden;
+  }
+
+  .courseheading{
+    padding: 0px;
+      color: white;
+      margin-left: -34px;
+      font-size: 15px;
+  }
+
+  .coursetilte{
+    padding: 0px;
+  }
+
+  .courseplus{
+   font-size: 20px;
   }
 
   .technologies{
