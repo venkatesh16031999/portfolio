@@ -103,7 +103,7 @@
         slidesToShow: 5,
         slidesToScroll: 4,
         autoplay: true,
-        dots: false,
+        dots: true,
         arrows: false,
         responsive: [{
                 breakpoint: 1024,

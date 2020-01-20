@@ -136,6 +136,10 @@ h6, .h6 {
   font-weight: bold;
 }
 
+.slick-prev{
+  color: #2bfdff;
+}
+
 .btn-transparent:active, .btn-transparent:hover {
   color: #41228e;
 }
